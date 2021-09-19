@@ -3,16 +3,16 @@
 
 ## Hough Transform:
 ### 1. Line Detection with Hough Transform:
-![image](Images&Gifs/1.png)
+![image](Images&Gifs/1.PNG)
 
 ### 2. Circle Detection with Hough Transform:
 • At minimum radius = 5
 
-![image](Images&Gifs/2.png)
+![image](Images&Gifs/2.PNG)
 
 • At minimum radius = 10
 
-![image](Images&Gifs/3.png)
+![image](Images&Gifs/3.PNG)
 
 ## Active contour (SNAKE):
 ### *Results*
